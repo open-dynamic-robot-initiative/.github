@@ -1,0 +1,5 @@
+{
+    "name": "Pull Request TODO checks",
+    "description": "Checks whether new TODOs or FIXMEs are added by the pull request.",
+    "iconName": "checklist"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Style Checker",
+    "description": "Calls style checkers to ensure the code is formatted correctly.",
+    "iconName": "checklist",
+    "categories": [
+        "Python"
+    ]
+}
